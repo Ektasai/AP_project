@@ -1,0 +1,6 @@
+Item Name      Quantity       Cost Price     Selling Price  
+apple          14             20             25             
+banana         10             5              10             
+milk           10             40             60             
+potato         2              5              10             
+sugar          20             35             45             
